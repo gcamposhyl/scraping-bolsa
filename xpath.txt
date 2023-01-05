@@ -1,0 +1,3 @@
+Links = //div[@class="col-lg-4"]/a/@href
+Titulo = text-uppercase font-weight-bold ng-binding"]/text()
+Cuerpo = //p[@class="f-18 ng-binding"]/text()
